@@ -5837,8 +5837,8 @@
      <table:table-cell office:value-type="float" office:value="-23.1" calcext:value-type="float">
       <text:p>-23.1</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="-120" calcext:value-type="float">
-      <text:p>-120.0</text:p>
+     <table:table-cell office:value-type="float" office:value="-20" calcext:value-type="float">
+      <text:p>-20.0</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="float" office:value="-17.9" calcext:value-type="float">
       <text:p>-17.9</text:p>
